@@ -41,7 +41,7 @@ Here is how I have this plugin setup, minus the dev stuff.
 I think this is a good overview of the main functionality as well.
 Toggling playback is arguably just as easy to do with general keyboard shortcuts
 (nowadays you often have media keys). I think the ability to browse
-and play via telescope/fzf-lua (or `vim.ui.select`) is the the most useful feature of this plugin.
+and play via telescope/fzf-lua (or `vim.ui.select`) is the most useful feature of this plugin.
 
 Note that you have to manually cleanup the temporary playlists created by this plugin.
 In the future I may try to come up with an autocmd solution.
