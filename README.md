@@ -21,7 +21,7 @@ Here is how I have this plugin setup, minus the dev stuff.
 ```lua
 {
     'p5quared/apple-music.nvim',
-    -- Optional dependencies
+    -- Optional dependencies (install one of the supported pickers, e.g., 'nvim-telescope/telescope.nvim' for Telescope or 'ibhagwan/fzf-lua' for fzf-based picker)
     -- dependencies = {
     --   'nvim-telescope/telescope.nvim'
     --   'ibhagwan/fzf-lua',
